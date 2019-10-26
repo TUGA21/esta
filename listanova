@@ -1,0 +1,235 @@
+#EXTM3U
+#EXTINF:-1,|PT| SPORT TV
+http://iptv4.premium-stv.com:8000/live/PORPROUN04/nQ1cZ5btrC/212.ts
+#EXTINF:-1,|PT| SPORT TV1 HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN04/nQ1cZ5btrC/214.ts
+#EXTINF:-1,|PT| SPORT TV1 FHD
+http://iptv4.premium-stv.com:8000/live/PORPROUN04/nQ1cZ5btrC/213.ts
+#EXTINF:-1,|PT| SPORT TV1
+http://iptv4.premium-stv.com:8000/live/PORPROUN04/nQ1cZ5btrC/215.ts
+#EXTINF:-1,|PT| SPORT TV2 HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN04/nQ1cZ5btrC/217.ts
+#EXTINF:-1,|PT| SPORT TV2 FHD
+http://iptv4.premium-stv.com:8000/live/PORPROUN04/nQ1cZ5btrC/216.ts
+#EXTINF:-1,|PT| SPORT TV2
+http://iptv4.premium-stv.com:8000/live/PORPROUN04/nQ1cZ5btrC/218.ts
+#EXTINF:-1,|PT| SPORT TV3 FHD
+http://iptv4.premium-stv.com:8000/live/PORPROUN05/xlwPytslLb/219.ts
+#EXTINF:-1,|PT| SPORT TV3
+http://iptv4.premium-stv.com:8000/live/PORPROUN05/xlwPytslLb/220.ts
+#EXTINF:-1,|PT| SPORT TV4 FHD
+http://iptv4.premium-stv.com:8000/live/PORPROUN05/xlwPytslLb/221.ts
+#EXTINF:-1,|PT| SPORT TV4
+http://iptv4.premium-stv.com:8000/live/PORPROUN05/xlwPytslLb/222.ts
+#EXTINF:-1,|PT| SPORT TV5 FHD
+http://iptv4.premium-stv.com:8000/live/PORPROUN05/xlwPytslLb/223.ts
+#EXTINF:-1,|PT| BENIFICA FHD
+http://iptv4.premium-stv.com:8000/live/PORPROUN1/wwI3fnrSpC/231.ts
+#EXTINF:-1,|PT| BENIFICA
+http://iptv4.premium-stv.com:8000/live/PORPROUN1/wwI3fnrSpC/232.ts
+#EXTINF:-1,|PT|  CANAL 11
+http://iptv4.premium-stv.com:8000/live/PORPROUN1/wwI3fnrSpC/224.ts
+#EXTINF:-1,|PT| PORTO CANAL HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN03/hYSeZOoV6s/964.ts
+#EXTINF:-1,|PT| PFC
+http://iptv4.premium-stv.com:8000/live/PORPROUN03/hYSeZOoV6s/235.ts
+#EXTINF:-1,|PT| SPORTING TV
+http://iptv4.premium-stv.com:8000/live/PORPROUN05/xlwPytslLb/233.ts
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 FHD
+http://iptv4.premium-stv.com:8000/live/PORPROUN02/VmUnaFyecj/225.ts
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 FHD
+http://iptv4.premium-stv.com:8000/live/PORPROUN02/VmUnaFyecj/226.ts
+#EXTINF:-1,|PT| ELEVEN SPORTS 3 FHD
+http://iptv4.premium-stv.com:8000/live/PORPROUN02/VmUnaFyecj/227.ts
+#EXTINF:-1,|PT| ELEVEN SPORTS 4 HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN03/hYSeZOoV6s/228.ts
+#EXTINF:-1,|PT| ELEVEN SPORTS 5 FHD
+http://iptv4.premium-stv.com:8000/live/PORPROUN03/hYSeZOoV6s/229.ts
+#EXTINF:-1,|PT| ELEVEN SPORTS 6 HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN03/hYSeZOoV6s/230.ts
+#EXTINF:-1,|PT| A BOLA TV
+http://iptv4.premium-stv.com:8000/live/PORPROUN1/wwI3fnrSpC/234.ts
+#EXTINF:-1,|PT| CMTV HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN1/wwI3fnrSpC/1033.ts
+#EXTINF:-1,|PT| CMTV
+http://iptv4.premium-stv.com:8000/live/PORPROUN1/wwI3fnrSpC/1034.ts
+#EXTINF:-1,|PT| EUROSPORT NEWS
+http://iptv4.premium-stv.com:8000/live/PORPROUN02/VmUnaFyecj/237.ts
+#EXTINF:-1,|PT| EUROSPORT 1HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN02/VmUnaFyecj/238.ts
+#EXTINF:-1,|PT| EUROSPORT2
+http://iptv4.premium-stv.com:8000/live/PORPROUN02/VmUnaFyecj/239.ts
+#EXTINF:-1,|PT| MOTORVISION
+http://iptv4.premium-stv.com:8000/live/PORPROUN03/hYSeZOoV6s/971.ts
+#EXTINF:-1,|PT| KOMBATSPORT
+http://iptv4.premium-stv.com:8000/live/PORPROUN02/VmUnaFyecj/236.ts
+#EXTINF:-1,|PT| CANAL PANDA
+http://iptv4.premium-stv.com:8000/live/PORPROUN1/wwI3fnrSpC/993.ts
+#EXTINF:-1,|PT| JIM JAM
+http://iptv4.premium-stv.com:8000/live/PORPROUN02/VmUnaFyecj/972.ts
+#EXTINF:-1,|PT| BABY TV
+http://iptv4.premium-stv.com:8000/live/PORPROUN1/wwI3fnrSpC/998.ts
+#EXTINF:-1,|PT| PANDA BIGGS
+http://iptv4.premium-stv.com:8000/live/PORPROUN03/hYSeZOoV6s/965.ts
+#EXTINF:-1,|PT| Nickelodeon
+http://iptv4.premium-stv.com:8000/live/PORPROUN03/hYSeZOoV6s/967.ts
+#EXTINF:-1,|PT| Nick Jr.
+http://iptv4.premium-stv.com:8000/live/PORPROUN03/hYSeZOoV6s/968.ts
+#EXTINF:-1,|PT| DISNEY JUNIOR
+http://iptv4.premium-stv.com:8000/live/PORPROUN02/VmUnaFyecj/985.ts
+#EXTINF:-1,|PT| DISNEY CHANNEL
+http://iptv4.premium-stv.com:8000/live/PORPROUN02/VmUnaFyecj/986.ts
+#EXTINF:-1,|PT| RTP1
+http://iptv4.premium-stv.com:8000/live/PORPROUN03/hYSeZOoV6s/1025.ts
+#EXTINF:-1,|PT| RTP1 HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN03/hYSeZOoV6s/1024.ts
+#EXTINF:-1,|PT| RTP2 HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN03/hYSeZOoV6s/1023.ts
+#EXTINF:-1,|PT| RTP 2
+http://iptv4.premium-stv.com:8000/live/PORPROUN03/hYSeZOoV6s/1031.ts
+#EXTINF:-1,|PT| RTP 3
+http://iptv4.premium-stv.com:8000/live/PORPROUN03/hYSeZOoV6s/1030.ts
+#EXTINF:-1,|PT| RTP3 HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN03/hYSeZOoV6s/1022.ts
+#EXTINF:-1,|PT| RTP MEMORIA
+http://iptv4.premium-stv.com:8000/live/PORPROUN03/hYSeZOoV6s/1026.ts
+#EXTINF:-1,|PT| RTPi_internacional
+http://iptv4.premium-stv.com:8000/live/PORPROUN03/hYSeZOoV6s/1021.ts
+#EXTINF:-1,|PT| RTP MADEIRA
+http://iptv4.premium-stv.com:8000/live/PORPROUN03/hYSeZOoV6s/1027.ts
+#EXTINF:-1,|PT| RTP ACORES
+http://iptv4.premium-stv.com:8000/live/PORPROUN03/hYSeZOoV6s/1029.ts
+#EXTINF:-1,|PT| RTP ÁFRICA
+http://iptv4.premium-stv.com:8000/live/PORPROUN03/hYSeZOoV6s/1028.ts
+#EXTINF:-1,|PT| TVI
+http://iptv4.premium-stv.com:8000/live/PORPROUN05/xlwPytslLb/1009.ts
+#EXTINF:-1,|PT| TVI HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN05/xlwPytslLb/1007.ts
+#EXTINF:-1,|PT| TVI24
+http://iptv4.premium-stv.com:8000/live/PORPROUN05/xlwPytslLb/1005.ts
+#EXTINF:-1,|PT| TVI Reality
+http://iptv4.premium-stv.com:8000/live/PORPROUN05/xlwPytslLb/1006.ts
+#EXTINF:-1,|PT| TVI FICCAO
+http://iptv4.premium-stv.com:8000/live/PORPROUN05/xlwPytslLb/1008.ts
+#EXTINF:-1,|PT| SIC
+http://iptv4.premium-stv.com:8000/live/PORPROUN03/hYSeZOoV6s/1020.ts
+#EXTINF:-1,|PT| SIC HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN04/nQ1cZ5btrC/1017.ts
+#EXTINF:-1,|PT| SIC RADICAL HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN04/nQ1cZ5btrC/1011.ts
+#EXTINF:-1,|PT| SIC RADICAL
+http://iptv4.premium-stv.com:8000/live/PORPROUN04/nQ1cZ5btrC/1012.ts
+#EXTINF:-1,|PT| SIC NOTICIAS HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN04/nQ1cZ5btrC/1013.ts
+#EXTINF:-1,|PT| SIC NOTICIAS
+http://iptv4.premium-stv.com:8000/live/PORPROUN04/nQ1cZ5btrC/1014.ts
+#EXTINF:-1,|PT| SIC Mulher HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN04/nQ1cZ5btrC/1015.ts
+#EXTINF:-1,|PT| SIC MULHER
+http://iptv4.premium-stv.com:8000/live/PORPROUN04/nQ1cZ5btrC/1016.ts
+#EXTINF:-1,|PT| SIC K
+http://iptv4.premium-stv.com:8000/live/PORPROUN04/nQ1cZ5btrC/963.ts
+#EXTINF:-1,|PT| SIC CARAS HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN04/nQ1cZ5btrC/1018.ts
+#EXTINF:-1,|PT| SIC Caras
+http://iptv4.premium-stv.com:8000/live/PORPROUN04/nQ1cZ5btrC/1019.ts
+#EXTINF:-1,|PT| TV RECORD HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN04/nQ1cZ5btrC/956.ts
+#EXTINF:-1,|PT| TPA
+http://iptv4.premium-stv.com:8000/live/PORPROUN04/nQ1cZ5btrC/1010.ts
+#EXTINF:-1,|PT| TLC
+http://iptv4.premium-stv.com:8000/live/PORPROUN04/nQ1cZ5btrC/960.ts
+#EXTINF:-1,|PT| TRAVEL CHANNEL HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN04/nQ1cZ5btrC/959.ts
+#EXTINF:-1,|PT| Odisseia
+http://iptv4.premium-stv.com:8000/live/PORPROUN03/hYSeZOoV6s/966.ts
+#EXTINF:-1,|PT| NATIONAL GEOGRAPHIC HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN03/hYSeZOoV6s/969.ts
+#EXTINF:-1,|PT| Nat Geo Wild
+http://iptv4.premium-stv.com:8000/live/PORPROUN03/hYSeZOoV6s/970.ts
+#EXTINF:-1,|PT| AXN WHITE HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN1/wwI3fnrSpC/999.ts
+#EXTINF:-1,|PT| AXN HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN1/wwI3fnrSpC/1000.ts
+#EXTINF:-1,|PT| AXN BLACK HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN1/wwI3fnrSpC/1001.ts
+#EXTINF:-1,|PT| TV SERIES  HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN04/nQ1cZ5btrC/955.ts
+#EXTINF:-1,|PT| TV  SERIES
+http://iptv4.premium-stv.com:8000/live/PORPROUN04/nQ1cZ5btrC/958.ts
+#EXTINF:-1,|PT| TVCine 1 HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN05/xlwPytslLb/953.ts
+#EXTINF:-1,|PT| TVCINE 1
+http://iptv4.premium-stv.com:8000/live/PORPROUN05/xlwPytslLb/954.ts
+#EXTINF:-1,|PT| TVCINE 2 HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN05/xlwPytslLb/952.ts
+#EXTINF:-1,|PT| TV CINE 2
+http://iptv4.premium-stv.com:8000/live/PORPROUN04/nQ1cZ5btrC/957.ts
+#EXTINF:-1,|PT| TVCine 3 HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN05/xlwPytslLb/950.ts
+#EXTINF:-1,|PT| TVCINE 3
+http://iptv4.premium-stv.com:8000/live/PORPROUN05/xlwPytslLb/951.ts
+#EXTINF:-1,|PT| TVCine 4 HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN05/xlwPytslLb/948.ts
+#EXTINF:-1,|PT| TVCine 4
+http://iptv4.premium-stv.com:8000/live/PORPROUN05/xlwPytslLb/949.ts
+#EXTINF:-1,|PT| Hollywood HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN02/VmUnaFyecj/973.ts
+#EXTINF:-1,|PT| HOLLYWOOD
+http://iptv4.premium-stv.com:8000/live/PORPROUN02/VmUnaFyecj/974.ts
+#EXTINF:-1,|PT| FOX MOVIES
+http://iptv4.premium-stv.com:8000/live/PORPROUN02/VmUnaFyecj/976.ts
+#EXTINF:-1,|PT| FOX Life HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN02/VmUnaFyecj/977.ts
+#EXTINF:-1,|PT| FOX HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN02/VmUnaFyecj/978.ts
+#EXTINF:-1,|PT| FOX Crime HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN02/VmUnaFyecj/979.ts
+#EXTINF:-1,|PT| FOX COMEDY
+http://iptv4.premium-stv.com:8000/live/PORPROUN02/VmUnaFyecj/980.ts
+#EXTINF:-1,|PT| SYFY HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN04/nQ1cZ5btrC/961.ts
+#EXTINF:-1,|PT| SYFY
+http://iptv4.premium-stv.com:8000/live/PORPROUN04/nQ1cZ5btrC/962.ts
+#EXTINF:-1,|PT| vh1 classic
+http://iptv4.premium-stv.com:8000/live/PORPROUN05/xlwPytslLb/975.ts
+#EXTINF:-1,|PT| CINEMUNDO
+http://iptv4.premium-stv.com:8000/live/PORPROUN1/wwI3fnrSpC/990.ts
+#EXTINF:-1,|PT| CBS REALITY
+http://iptv4.premium-stv.com:8000/live/PORPROUN1/wwI3fnrSpC/991.ts
+#EXTINF:-1,|PT| CARTOON NETWORK
+http://iptv4.premium-stv.com:8000/live/PORPROUN1/wwI3fnrSpC/992.ts
+#EXTINF:-1,|PT| CANAL Q
+http://iptv4.premium-stv.com:8000/live/PORPROUN1/wwI3fnrSpC/1036.ts
+#EXTINF:-1,|PT| CANAL HISTÓRIA
+http://iptv4.premium-stv.com:8000/live/PORPROUN1/wwI3fnrSpC/994.ts
+#EXTINF:-1,|PT| CACA E PESCA
+http://iptv4.premium-stv.com:8000/live/PORPROUN1/wwI3fnrSpC/995.ts
+#EXTINF:-1,|PT| CAÇAVISION
+http://iptv4.premium-stv.com:8000/live/PORPROUN1/wwI3fnrSpC/996.ts
+#EXTINF:-1,|PT| Bloomberg
+http://iptv4.premium-stv.com:8000/live/PORPROUN1/wwI3fnrSpC/997.ts
+#EXTINF:-1,|PT| BLAZE
+http://iptv4.premium-stv.com:8000/live/PORPROUN1/wwI3fnrSpC/1035.ts
+#EXTINF:-1,|PT| AMC
+http://iptv4.premium-stv.com:8000/live/PORPROUN1/wwI3fnrSpC/1003.ts
+#EXTINF:-1,|PT| AMC HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN1/wwI3fnrSpC/1002.ts
+#EXTINF:-1,|PT| FOOD NETWORK HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN02/VmUnaFyecj/981.ts
+#EXTINF:-1,|PT| FINE LIVING NETWORK HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN02/VmUnaFyecj/982.ts
+#EXTINF:-1,|PT| E! Entertainment
+http://iptv4.premium-stv.com:8000/live/PORPROUN02/VmUnaFyecj/983.ts
+#EXTINF:-1,|PT| DOG TV
+http://iptv4.premium-stv.com:8000/live/PORPROUN02/VmUnaFyecj/984.ts
+#EXTINF:-1,|PT| DISCOVERY HD SHOWCASE
+http://iptv4.premium-stv.com:8000/live/PORPROUN02/VmUnaFyecj/987.ts
+#EXTINF:-1,|PT| DISCOVERY CHANNEL
+http://iptv4.premium-stv.com:8000/live/PORPROUN02/VmUnaFyecj/988.ts
+#EXTINF:-1,|PT| CRIME INVESTIGATION
+http://iptv4.premium-stv.com:8000/live/PORPROUN02/VmUnaFyecj/989.ts
+#EXTINF:-1,|PT| 24 KITCHEN HD
+http://iptv4.premium-stv.com:8000/live/PORPROUN1/wwI3fnrSpC/1004.ts
+#EXTINF:-1,|PT| My Cuisine
+http://iptv4.premium-stv.com:8000/live/PORPROUN03/hYSeZOoV6s/1032.ts
